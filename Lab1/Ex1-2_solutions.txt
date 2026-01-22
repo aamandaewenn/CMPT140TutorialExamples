@@ -1,0 +1,19 @@
+Algorithm EmptyDishwasher:
+1. Open the dishwasher
+2. Open bottom rack drawer
+while there are still dishes in bottom rack:
+	3. Take out dish from bottom rack
+	4. Put dish Away
+5. Close the bottom rack drawer
+6. Open the top rack drawer
+while there are still dishes in top rack:
+	8. Take out dish from the top rack
+	9. Put dish away
+10. Close the top rack drawer
+11. Close the dishwasher
+
+...............
+Algorithm DoDishes:
+1. loadDishwasher
+2. runDishwasher
+3. EmptyDishwasher
