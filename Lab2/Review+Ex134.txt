@@ -1,0 +1,17 @@
+Review:
+(20, 20) --> bottom right corner of the canvas
+(0, 10) --> on the y axis, in the middle of the axis
+(20, 1) --> just below the x axis, all the way on the right side
+
+Ex1)
+a) Really dark grey background
+b)  Lime Green
+c)  (125, 0, 255)
+
+Ex3)
+a) Point at bottom right corner
+b) user_name
+
+Ex 4)
+a) cities = ["Saskatoon", "Regina"] 
+b) 12.34
