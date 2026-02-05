@@ -1,0 +1,22 @@
+Ex 1)
+a) 81
+b) -9
+c) 18
+d) 4.5
+e) 4
+f) 9 - 2*4 = 1
+g) 5
+h) 49
+
+Ex 2)
+a) 5.1
+b) 1
+
+Ex 3)
+a) "hehe"
+b) "hello"
+
+Ex 4)
+a) "CMPT140"
+b) Error
+c) Error
